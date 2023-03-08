@@ -5,3 +5,7 @@ repo to demonstrate the fork and clone workflow
 My favorite ice cream:
 - arequipe
 - fresa
+
+chicken favorite flavors:
+- worms
+- seeds
